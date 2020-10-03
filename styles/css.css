@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+html, body{
+    height: 100%;
+    color: #DCDCDC;
+}
+
+header{
+    background-color: #273142;
+    text-align: center;
+}
+
+header img{
+    height: 100px;
+} 
+
+
+/* Config do Footer*/
+footer{
+    background-color: #273142;
+    height: 50px;
+    text-align: center;    
+}
+
+footer img {
+    height: 50px;
+    weight: 50px;
+}
